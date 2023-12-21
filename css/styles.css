@@ -7006,7 +7006,7 @@ textarea.form-control-lg {
 }
 
 .d-block {
-  display: block !important;
+  display: block;
 }
 
 .d-grid {
@@ -8042,7 +8042,7 @@ textarea.form-control-lg {
 
 .text-secondary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
+  color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity));
 }
 
 .text-success {
@@ -9330,7 +9330,7 @@ textarea.form-control-lg {
     display: inline-flex !important;
   }
   .d-lg-none {
-    display: none !important;
+    display: none;
   }
   .flex-lg-fill {
     flex: 1 1 auto !important;

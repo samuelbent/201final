@@ -4,3 +4,10 @@ h2 {
 .darkcolor {
     background-color: navy !important;
 }
+.text-primary {
+    color: navy !important;
+}
+a{
+    color: navy, !important;
+}
+
